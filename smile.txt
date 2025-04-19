@@ -1,0 +1,16 @@
+CC(C)C(C)O
+CC(C)N
+CC(C)Cl
+CC(C)Br
+CC(C)F
+CC(C)I
+CC(=O)O
+CC(=O)N
+CC(=O)C
+CC(=O)CC
+CC(=O)CO
+CC(=O)N(C)C
+CC(=O)NC
+CC(=O)OCC
+CC(=O)OCCO
+CC(=O)OCCC
